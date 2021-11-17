@@ -1,0 +1,7 @@
+{
+  "env": {
+      "MONGO_USERNAME": "Guy_Asulin",
+      "MONGO_PASSWORD": "qg9LCUKKCVxVo54w",
+      "JWT_KEY": "SAVETHEDATE"
+  }
+}
